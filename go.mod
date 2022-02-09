@@ -1,4 +1,4 @@
-module gitlab.com/rittidate/go-kit-common
+module github.com/rittidate/go-kit-common
 
 go 1.17
 
